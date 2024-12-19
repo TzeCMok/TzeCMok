@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🌱 I’m currently learning data science in bootcamp hosted by CoHrammar & HyperionDev
+
+
 <!--
 **TzeCMok/TzeCMok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
