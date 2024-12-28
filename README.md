@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-🌱 I’m currently learning data science in bootcamp hosted by CoHrammar & HyperionDev
+I'm Tze Chung, a data science enthusiast currently learning in a bootcamp hosted by CoHrammar & HyperionDev. 
 
+I'm originally from Hong Kong, where I spent five years as a programmer working with Java and SAP Commerce.  While I'm still getting used to the Pythonic way of doing things, I'm excited to learn more about data. 
+
+Feel free to check out my projects and let's connect!
 
 <!--
 **TzeCMok/TzeCMok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
